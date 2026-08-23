@@ -83,8 +83,6 @@ When I'm away from the keyboard, I'm usually challenging myself with new skills,
 
 ### 📊 GitHub Activity & Statistics
 
-### 📊 GitHub Activity & Statistics
-
 <div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaJaffaMan&theme=tokyo-night&area=true&hide_border=false)
