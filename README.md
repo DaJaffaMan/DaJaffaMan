@@ -99,6 +99,6 @@ When I'm away from the keyboard, I'm usually challenging myself with new skills,
 
 <div align="center">
 
-*“継続は力なり” (Consistency leads to success)*
+*“継続は力なり” (Consistency leads to success)"*
 
 </div>
