@@ -16,7 +16,7 @@
 
 I am a software engineer dedicated to building scalable distributed backends, robust cloud infrastructure, and fluid cross-platform applications. I love taking complex business requirements and crafting clean, resilient architectures.
 
-- 🔭 **Currently Building**: **[Agora](agora.cleaning)** — A next-generation two-sided marketplace for professional cleaning services.
+- 🔭 **Currently Building**: **[Agora](https://agora.cleaning)** — A next-generation two-sided marketplace for professional cleaning services.
 - ⚡ **Engineering Focus**: Distributed Backends (NestJS, GraphQL, Neo4j), Cross-Platform Mobile (Flutter / Dart), and Modern Web (Next.js 15, React 19, Tailwind CSS v4).
 - 🧠 **Core Philosophy**: Clean Architecture, strict typing, automated CI/CD pipelines, and relevant high-coverage test suites.
 
