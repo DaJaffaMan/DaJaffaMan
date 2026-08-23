@@ -83,15 +83,23 @@ When I'm away from the keyboard, I'm usually challenging myself with new skills,
 
 ### 📊 GitHub Activity & Statistics
 
+### 📊 GitHub Activity & Statistics
+
 <div align="center">
 
-![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaJaffaMan&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaJaffaMan&theme=tokyo-night&area=true&hide_border=false)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaJaffaMan&layout=compact&theme=tokyonight&hide_border=false&langs_count=8)
-&nbsp;
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DaJaffaMan&theme=tokyonight&hide_border=false)
+&nbsp;
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaJaffaMan&theme=tokyonight)
+
+<br/>
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaJaffaMan&theme=tokyonight)
+&nbsp;
+![Language Breakdown](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaJaffaMan&theme=tokyonight)
 
 </div>
 
